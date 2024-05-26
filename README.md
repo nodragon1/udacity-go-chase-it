@@ -34,3 +34,4 @@ $ roslaunch ball_chaser ball_chaser.launch
 
 ## Result
 If the white ball is on the direction that robot is able to recognize, it will start moving. You can check if the operation works well by moving the location of the ball.
+<img src="bandicam-2024-05-26-21-21-48-393.gif" alt="simulation" style="width:600px;"/>   
